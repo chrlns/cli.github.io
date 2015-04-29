@@ -1,1 +1,55 @@
-Hallo
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+        <title>Migration von ArcGIS-Geodatenbanken auf Freie Software mit PostgreSQL - Masterthesis von Christian Lins</title>
+    </head>
+    <body style="padding: 20pt; width: 550pt">
+        <h1>Migration von ArcGIS-Geodatenbanken auf Freie Software mit PostgreSQL</h1>
+        <h2>Masterthesis von Christian Lins</h2>
+        
+        <div style="text-align: justify">
+        <h3>Zusammenfassung</h3>
+        <p>Die proprietäre ArcGIS Softwarefamilie der
+        Firma Esri ist eine weitverbreitete   
+        Standardsoftware für Geoinformationssysteme    
+        (GIS). Inzwischen gibt es Freie Software, die
+        Teile des ArcGIS Ökosystems ersetzen 
+        könnte.    
+        Dem Anwender bietet diese Freie Software
+        Vorteile wie z. B. hohe Flexibilität und
+        viele Anpassungsmöglichkeiten der Anwendung,
+        Wahlmöglichkeiten beim Softwaredienstleister 
+        und somit Herstellerunabhängigkeit.
+        </p>
+        <p>
+        Im Rahmen dieser Arbeit wird untersucht, ob und wie auf ArcGIS basierende 
+        Geoinformationssysteme auf Infrastrukturen mit freier Software migriert werden können.
+        Der Schwerpunkt liegt dabei auf der Betrachtung der Geodatenbanken im Back-End der
+        Dateninfrastruktur, insbesondere auf der Datenbank-Middleware ArcSDE von Esri.
+        </p>
+        <p>
+        Es werden prototypisch technische Ansätze entworfen, mit denen sich ArcSDE ersetzen
+        bzw. sinnvoll an die freie Datenbank PostgreSQL und deren räumliche Erweiterung
+        PostGIS anbinden lässt. Neben der technischen Realisierbarkeit werden auch Kriterien
+        wie Nutzerakzeptanz, Aufwand und Nachhaltigkeit zur Bewertung der unterschiedlichen
+        Migrationsszenarien betrachtet.
+        </p>
+        <p>
+        Dabei zeigt sich, dass sich das freie Datenbankmanagementsystem PostgreSQL problemlos 
+        mit ArcSDE verwenden lässt und dabei bspw. Oracle Database im Back-End ersetzen 
+        kann. Ein Verzicht auf die Middleware ArcSDE ist mit Einschränkungen
+        möglich, denn die Untersuchung der Prototypen zeigt, dass ein ArcMap-Plugin zur
+        direkten Anbindung an PostGIS geeignet ist.
+        </p>
+        </div>
+        
+        <ul>
+            <li><a href="thesis.pdf">thesis.pdf</a></li>
+            <li><a href="dumpsde.py">dumpsde.py</a></li>
+            <li><a href="orbsde.tar.xz">orbsde.tar.xz</a></li>
+            <li><a href="postarc.tar.xz">postarc.tar.xz</a></li>
+        </ul>
+    </body>
+</html>
