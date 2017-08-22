@@ -21,4 +21,4 @@ profile for more publications.
  * [sonews](https://github.com/cli/sonews) NNTP Usenet Server written in Java using Spring Framework and Hibernate
  * [lindenmayer](https://github.com/cli/sonews) Lindenmayer is a small Java application that allows one to edit and view context free L-systems grammars that produce plant-looking turtle graphics 
 
-More can be found on [Github](http://github.com/) or [Bitbucket](http://bitbucket.org).
+More can be found on [Github](https://github.com/cli) or [Bitbucket](https://bitbucket.org/cli).
