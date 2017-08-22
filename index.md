@@ -1,12 +1,16 @@
 ## About me
 
-I am a researcher and software developer living with my wife and four children in [Oldenburg](http://www.oldenburg.de/), Germany.
+I am a researcher and software developer living with my wife and four children in [Rastede](http://www.rastede.de/) near [Oldenburg](http://www.oldenburg.de/), Germany.
 Currently, I work at the [Carl von Ossietzky University Oldenburg](http://www.uni-oldenburg.de/) and the [OFFIS Institute for Information Technology](http://www.offis.de/).
 
 ## Publications
 
 Here is a selection of my publications. The list may not be exhaustive; please refer to my [Google Scholar](https://scholar.google.de/citations?user=BZsFbZkAAAAJ&hl=d) or [ResearchGate](https://www.researchgate.net/profile/Christian_Lins) 
 profile for more publications. 
+
+### 2017
+ * S. Hellmers, S. Fudickar, E. Lange, C. Lins, Andreas Hein:
+„Validation of a Motion Capture Suit for Clinical Gait Analysis“, 2017, Proceedings 11th EAI Conference on Pervasive Computing Technologies for Healthcare, Barcelona (in press)
 
 ### 2016
  * C. Lins, A. Hein, L. Halder, and P. Gronotte, “Still in flow - Long-term usage of an activity motivating app for seniors,” in 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services, Healthcom 2016, 2016, pp. 310–313.
