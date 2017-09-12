@@ -1,6 +1,6 @@
 ## About me
 
-I am a researcher and software developer living with my wife and four children in [Rastede](http://www.rastede.de/) near [Oldenburg](http://www.oldenburg.de/), Germany.
+I am a researcher and software engineer living with my wife and four children in [Rastede](http://www.rastede.de/) near [Oldenburg](http://www.oldenburg.de/), Germany.
 Currently, I work at the [Carl von Ossietzky University Oldenburg](http://www.uni-oldenburg.de/) and the [OFFIS Institute for Information Technology](http://www.offis.de/).
 
 ## Publications
