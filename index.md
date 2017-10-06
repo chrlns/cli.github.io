@@ -9,8 +9,9 @@ Here is a selection of my publications. The list may not be exhaustive; please r
 profile for more publications. 
 
 ### 2017
- * S. Hellmers, S. Fudickar, E. Lange, C. Lins, Andreas Hein:
-„Validation of a Motion Capture Suit for Clinical Gait Analysis“, 2017, Proceedings 11th EAI Conference on Pervasive Computing Technologies for Healthcare, Barcelona (in press)
+ * A. Gerka, C. Lins, C. Lüpkes, A. Hein: "
+ * S. Hellmers, S. Fudickar, E. Lange, C. Lins, Andreas Hein: "Zustandserkennung von Beatmungsgeräten durch zentrale Messung des Stromverbrauchs", 16. 16. Deutscher Kongress für Versorgungsforschung (DKVF), [doi:10.3205/17dkvf249](http://dx.doi.org/10.3205/17dkvf249)
+"Validation of a Motion Capture Suit for Clinical Gait Analysis", 2017, Proceedings 11th EAI Conference on Pervasive Computing Technologies for Healthcare, Barcelona (in press)
 
 ### 2016
  * C. Lins, A. Hein, L. Halder, and P. Gronotte, “Still in flow - Long-term usage of an activity motivating app for seniors,” in 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services, Healthcom 2016, 2016, pp. 310–313.
