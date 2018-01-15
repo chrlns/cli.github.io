@@ -4,6 +4,7 @@ title: OKML
 subtitle: OWAS Klassifizierung mit Methoden des maschinellen Lernens
 section_active: overview
 navigation_active: overview
+twitter_feed: false
 ---
 
 ## OWAS Klassifizierung mit Methoden des maschinellen Lernens (OKML)

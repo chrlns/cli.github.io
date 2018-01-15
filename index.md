@@ -1,3 +1,12 @@
+---
+layout: default
+title: Christian Lins
+subtitle: Researcher and Software Engineer
+section_active: overview
+navigation_active: overview
+twitter_feed: true
+---
+
 ## About me
 
 I am a researcher and software engineer living with my wife and four children in [Rastede](http://www.rastede.de/) near [Oldenburg](http://www.oldenburg.de/), Germany.
