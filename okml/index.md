@@ -1,3 +1,11 @@
+---
+layout: default
+title: OKML
+subtitle: OWAS Klassifizierung mit Methoden des maschinellen Lernens
+section_active: overview
+navigation_active: overview
+---
+
 ## OWAS Klassifizierung mit Methoden des maschinellen Lernens (OKML)
 
 Einleitung
