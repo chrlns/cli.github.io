@@ -6,3 +6,7 @@ theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
+  
+collections:
+  - www
+  - okml
