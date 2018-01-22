@@ -37,7 +37,7 @@ Die Anprobe und die Messungen finden im Uni-Gebäude V04 (Ammerländer Heerstr. 
 Es tut nicht weh :-)
 
 Da der Messanzug immer individuell angepasst werden muss, gibt es vor dem eigentlichen Studientermin eine
-kurze Anprobe, bei der der Messanzug auf die angepasst wird.
+kurze Anprobe, bei der der Messanzug auf dich angepasst wird.
 
 Am eigentlich Messtermin trägst du den Anzug und musst dann der Reihe nach unterschiedliche für Industriearbeiter
 typische Körperhaltungen einnehmen (jeweils für max. 30 Sekunden).
